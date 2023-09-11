@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startApplication('/Users/thanh.pnguyen/Downloads/app-st-release.apk', true)
 
-Mobile.setText(findTestObject('Object Repository/Security Bank/android.widget.EditText - Access token'), 'ZfHmCb9CanyadOe65NA_B5r0erI', 3)
+Mobile.setText(findTestObject('Object Repository/Security Bank/android.widget.EditText - USERNAME field'), 'ZfHmCb9CanyadOe65NA_B5r0erI', 3)
 
 Mobile.takeScreenshot()
 
