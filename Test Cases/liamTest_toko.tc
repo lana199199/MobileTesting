@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>liamTest_toko</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3783bfb-b16b-43bd-ae1f-f870f670ba27</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d2a34e07-31d6-4b69-a100-774c216a6b37</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'9'</defaultValue>
+      <description></description>
+      <id>d2a34e07-31d6-4b69-a100-774c216a6b37</id>
+      <masked>false</masked>
+      <name>value_hour</name>
+   </variable>
+</TestCaseEntity>

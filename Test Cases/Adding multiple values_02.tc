@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Adding multiple values by using GlobalVariable</description>
+   <name>Adding multiple values_02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d106d4a0-176f-47be-8dea-01b6cd75c35c</testCaseGuid>
+</TestCaseEntity>
