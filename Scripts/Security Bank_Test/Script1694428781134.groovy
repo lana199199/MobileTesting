@@ -19,13 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startApplication('/Users/thanh.pnguyen/Downloads/app-st-release.apk', true)
 
-Mobile.setText(findTestObject('Object Repository/Security Bank/android.widget.EditText - Access token'), 'testing ', 3)
+Mobile.setText(findTestObject('Object Repository/Security Bank/android.widget.EditText - Access token'), 'ZfHmCb9CanyadOe65NA_B5r0erI', 3)
 
 Mobile.takeScreenshot()
 
 //Mobile.verifyElementText(findTestObject('Security Bank/android.widget.EditText - testing'), 'testing')
 
-Mobile.setText(findTestObject('Object Repository/Security Bank/android.widget.EditText - Password'), '12345', 3)
+Mobile.setText(findTestObject('Object Repository/Security Bank/android.widget.EditText - Password'), 'Password123@', 3)
 
 Mobile.tap(findTestObject('Object Repository/Security Bank/com.horcrux.svg.PathView'), 3)
 
