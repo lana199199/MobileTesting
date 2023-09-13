@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>test case for bank</description>
    <name>Security Bank_Test</name>
    <tag></tag>
    <comment></comment>
